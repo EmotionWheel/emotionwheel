@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+.emotion-wheel{
+	font-family: "Lucida Bright";
+	font-size: 1.5vw;
+	width: 100%;
+	display: inline-flex;
+	justify-content: center;
+}
+
+select, select optgroup{
+	font-family: "Lucida Bright";
+	font-size: 1.5vw;
+	text-align: center;
+}
